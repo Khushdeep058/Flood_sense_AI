@@ -1,0 +1,10 @@
+flask
+geopandas
+osmnx
+folium
+requests
+scikit-learn
+shapely
+flask-cors
+rasterio
+xgboost
